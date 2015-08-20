@@ -1,0 +1,112 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#d8e0e8"
+    android:orientation="vertical" >
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="125dp"
+            android:layout_height="125dp"
+            android:text="设置界面"
+            android:background="#03a9f4"
+            android:id="@+id/button11" />
+
+        <Button
+            android:layout_width="125dp"
+            android:layout_height="125dp"
+            android:text="启动聊天界面"
+            android:background="#00bcd4"
+            android:id="@+id/button12" />
+
+        <Button
+            android:layout_width="125dp"
+            android:layout_height="125dp"
+            android:text="对话框"
+            android:background="#009688"
+            android:id="@+id/button13" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="125dp"
+            android:layout_height="125dp"
+            android:text="开发中..."
+            android:background="#ffeb3b"
+            android:id="@+id/button21" />
+
+        <Button
+            android:layout_width="125dp"
+            android:layout_height="125dp"
+            android:text="开发中..."
+            android:background="#ffc107"
+            android:id="@+id/button22" />
+
+        <Button
+            android:layout_width="125dp"
+            android:layout_height="125dp"
+            android:text="开发中..."
+            android:background="#ff9800"
+            android:id="@+id/button23" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="125dp"
+            android:layout_height="125dp"
+            android:text="开发中..."
+            android:background="#ff5722"
+            android:id="@+id/button31" />
+
+        <Button
+            android:layout_width="125dp"
+            android:layout_height="125dp"
+            android:text="开发中..."
+            android:background="#795548"
+            android:id="@+id/button32" />
+
+        <Button
+            android:layout_width="125dp"
+            android:layout_height="125dp"
+            android:text="开发中..."
+            android:background="#9e9e9e"
+            android:id="@+id/button33" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="125dp"
+            android:layout_height="125dp"
+            android:text="开发中..."
+            android:background="#607d8b"
+            android:id="@+id/button41" />
+
+        <Button
+            android:layout_width="125dp"
+            android:layout_height="125dp"
+            android:text="开发中..."
+            android:background="#3f51b5"
+            android:id="@+id/button42" />
+
+        <Button
+            android:layout_width="125dp"
+            android:layout_height="125dp"
+            android:text="开发中..."
+            android:background="#5677fc"
+            android:id="@+id/button43" />
+    </LinearLayout>
+</LinearLayout>

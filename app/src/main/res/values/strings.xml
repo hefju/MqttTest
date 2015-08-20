@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MqttTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="char_action_settings">快速回复</string>
+    <string name="title_activity_fragment_preferences">FragmentPreferences</string>
+    <string name="title_activity_abc2">abc2Activity</string>
+    <string name="title_activity_chat">ChatActivity</string>
+</resources>
